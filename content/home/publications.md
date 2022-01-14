@@ -12,24 +12,6 @@ weight: 90
 title: Publications
 subtitle: ''
 
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research Assistant
-    company: University of Macau
-    company_url: 'https://www.um.edu.mo/'
-    company_logo: org-um
-    location: Macau
-    date_start: '2021-09-01'
-    date_end: '2022-07-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Research
         
 
 design:
