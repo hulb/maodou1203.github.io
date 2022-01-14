@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: University of Macau
     company_url: 'https://www.um.edu.mo/'
-    company_logo: org-x
+    company_logo: org-um
     location: Macau
     date_start: '2021-09-01'
     date_end: '2022-07-31'
