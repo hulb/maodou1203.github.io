@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '1809853nii20001@student.must.edu.mo'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
