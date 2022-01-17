@@ -23,11 +23,11 @@ interests:
 - Multimedia technology
 
 # Education to show in About widget
-education:
-  courses:
-  - course: MSc in Computer Information System
-    institution: Macau University of Science and Technology
-    year: 2018
+# education:
+#  courses:
+#  - course: MSc in Computer Information System
+#    institution: Macau University of Science and Technology
+#    year: 2018
 
 
 # Social/Academic Networking
