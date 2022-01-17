@@ -1,6 +1,6 @@
 ---
-title: Image Self-Recovery Based on Authentication Feature Extraction
-subtitle: Conference paper
+title: Image Self-Recovery Based on Authentication Feature Extraction (Conference paper)
+
 publication_types:
   - "1"
 authors:
@@ -17,7 +17,7 @@ author_notes:
   - "published DOI: 10.1109/TrustCom50675.2020.00164."
 doi: " 10.1109/TrustCom50675.2020.00164"
 publication: IEEE TrustCom 2020
-abstract: "\n"
+abstract: "This paper proposes a novel image self-recovery scheme based on authentication feature extraction. The Authentication Feature Extraction method is proposed to calculate the authentication information. The Set Partitioning in Hierarchical Trees encoding algorithm is employed to calculate the recovery information. Moreover, in order to retrieve the damaged information caused by tampering, we propose to map each block into another position and generate the mapped-recovery information accordingly. In this way, a double assurance of recovery information can be provided. Experimental results show the superior performance of the proposed scheme in terms of image self-recovery. Comparison with the state-of-the-art works demonstrate that the proposed scheme shows efficiency in strong capability for image recovery, and effectiveness of attack resistance\n"
 draft: false
 featured: false
 tags:
