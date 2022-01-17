@@ -7,11 +7,6 @@ authors:
   - Liu T
   - Yuan X
 author_notes:
-  - Liu T
-  - Yuan X. A dual-tamper-detection method for digital image authentication and
-    content self-recovery[J]. Multimedia Tools and Applications
-  - "2021"
-  - "80(19): 29805-29826."
 publication: Multimedia Tools and Applications
 abstract: >+
   This paper proposes an approach to protect image content against malicious
