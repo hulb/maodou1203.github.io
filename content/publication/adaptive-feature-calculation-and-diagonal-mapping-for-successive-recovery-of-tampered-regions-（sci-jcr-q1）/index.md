@@ -6,15 +6,7 @@ publication_types:
 authors:
   - T. Liu and X. Yuan
 author_notes:
-  - T. Liu and X. Yuan
-  - '"Adaptive Feature Calculation and Diagonal Mapping for Successive Recovery
-    of Tampered Regions'
-  - '" in IEEE Transactions on Circuits and Systems for Video Technology'
-  - vol. 31
-  - no. 7
-  - pp. 2617-2630
-  - July 2021
-  - "doi: 10.1109/TCSVT.2020.3032455."
+
 doi: 10.1109/TCSVT.2020.3032455.
 abstract: >
   This article proposes an adaptive scheme for image tampered region
