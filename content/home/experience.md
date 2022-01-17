@@ -29,10 +29,19 @@ experience:
     location: Macau
     date_start: '2021-09-01'
     date_end: '2022-07-31'
-    description: |2-
-        Responsibilities include:
+#    description: |2-
+ #       Responsibilities include:
         
-        * Research
+  #      * Research
+  
+ experience:
+  - title: Master of Science
+    company: Macau University of Science and Technology
+    company_url: 'https://www.must.edu.mo/'
+    company_logo: org-um
+    location: Macau
+    date_start: '2018-09-01'
+    date_end: '2020-07-31'
         
 
 design:
