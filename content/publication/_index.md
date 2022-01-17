@@ -16,7 +16,7 @@ interests:
 - Multimedia technology
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+#  caption: ""
+#  image: ""
 ---
