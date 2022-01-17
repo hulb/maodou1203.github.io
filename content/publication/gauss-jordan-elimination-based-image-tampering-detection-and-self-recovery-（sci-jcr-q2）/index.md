@@ -8,12 +8,6 @@ authors:
   - Li X
   - Liu T
 author_notes:
-  - Yuan X
-  - Li X
-  - "Liu T. Gauss–Jordan elimination-based image tampering detection and
-    self-recovery[J]. Signal Processing: Image Communication"
-  - "2021"
-  - "90: 116038."
 doi: https://doi.org/10.1016/j.image.2020.116038
 publication: "Signal Processing: Image Communication"
 abstract: This paper proposes a novel Gauss–Jordan elimination-based image
