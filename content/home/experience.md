@@ -30,7 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-07-31'
   
- experience:
+experience:
   - title: Master of Science
     company: Macau University of Science and Technology
     company_url: 'https://www.must.edu.mo/'
