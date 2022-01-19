@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: CEO
     company: GenCoin
@@ -44,22 +45,22 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-experience:
-  - title: Research Assistant
-    company: University of Macau
-    company_url: 'https://www.um.edu.mo/'
-    company_logo: org-um
-    location: Macau
-    date_start: '2021-09-01'
-    date_end: '2022-07-31'
+# experience:
+#  - title: Research Assistant
+#    company: University of Macau
+#    company_url: 'https://www.um.edu.mo/'
+#    company_logo: org-um
+#    location: Macau
+#    date_start: '2021-09-01'
+#    date_end: '2022-07-31'
   
-  - title: Master of Science
-    company: Macau University of Science and Technology
-    company_url: 'https://www.must.edu.mo/'
-    company_logo: org-um
-    location: Macau
-    date_start: '2018-09-01'
-    date_end: '2020-07-31'
+#  - title: Master of Science
+#    company: Macau University of Science and Technology
+#    company_url: 'https://www.must.edu.mo/'
+#    company_logo: org-um
+#    location: Macau
+ #   date_start: '2018-09-01'
+#    date_end: '2020-07-31'
         
 
 design:
