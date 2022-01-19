@@ -21,6 +21,7 @@ interests:
 - Artificial Intelligence
 - Image processing
 - Multimedia technology
+- Image tamper detection and self-recovery
 
 # Education to show in About widget
 # education:
